@@ -1,4 +1,6 @@
-# The Mega64 Soundboard
+# The Mega64 Soundboard - Version 2 (React)
+
+Version 2: Bigger & Better - Rewritten from the ground up using React. 
 
 Welcome to the Mega64 Soundboard. This small project was created from the desire to listen to favorite sound clips / quotes of the Mega64 Boyz. The project was created by me, but hopefully will grow and flourish and be driven by the Mega64 community.
 
